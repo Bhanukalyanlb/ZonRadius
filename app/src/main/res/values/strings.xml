@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_msg_empty_data">Data not found!</string>
+    <string name="internet_connection_error_text">No Internet Connection! Please check your internet connection and try after some time</string>
+</resources>
